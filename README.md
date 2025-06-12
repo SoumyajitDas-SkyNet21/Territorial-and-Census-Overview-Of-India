@@ -95,8 +95,8 @@ Specifically, the table containing the list of States and Union Territories, alo
 ### 4.6. Population By Zone (Tree Map)
 - **Type**: Tree Map  
 - **Purpose**: Visualize population by zones (North, South, etc.)  
-- **Config**: Requires `Zone` column, `Zone` on Group, `State_UT` on Details, `Population_2011` on Values  
-- 📷 _Insert Screenshot: Population by Zone Tree Map_
+- **Config**: `Zone` on Category, `Population_2011` on Values  
+<img src="./Screenshots/Population By Zone.png" alt="Population By Zone.png"/>
 
 ---
 
