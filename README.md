@@ -106,8 +106,8 @@ Based on the dashboard visualizations, the following key insights were drawn:
 
 - Population Demographics:
 
-  -Uttar Pradesh is the most populous state in India with a population of 199,812,341 (as per 2011 census).
-  -Sikkim is the least populous state in India with a population of 610,577 (as per 2011 census).
+  - Uttar Pradesh is the most populous state in India with a population of 199,812,341 (as per 2011 census).
+  - Sikkim is the least populous state in India with a population of 610,577 (as per 2011 census).
 
 Geographical Distribution:
 
