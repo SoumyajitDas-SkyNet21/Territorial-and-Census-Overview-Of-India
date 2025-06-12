@@ -55,10 +55,10 @@ Specifically, the table containing the list of States and Union Territories, alo
 ---
 
 ### 4.1. Top 5 States by Population
-- **Type**: Bar Chart / Clustered Bar Chart  
-- **Purpose**: Show the most populous states/UTs from 2011 census  
-- **Config**: `State_UT` on Axis, `Population_2011` on Values, with Top N filter  
-- 📷 _Insert Screenshot: Top 5 States by Population_
+- **Type**: Stacked Column Chart  
+- **Purpose**: Show the most populous States from 2011 census  
+- **Config**: `State` on Y-Axis, `Population_2011` on Y-Axis, with Top N filter  
+ <img src="./Screenshots/Top_5_States_By_Population.png" alt="Top_5_States_By_Population"/>
 
 ---
 
