@@ -32,28 +32,21 @@ Specifically, the table containing the list of States and Union Territories, alo
 - Review the loaded data for headers, irrelevant columns, and quality issues.
 
 ### Key Transformation Steps:
-- **Promote Headers**: Use *First Row as Headers*.
 - **Rename Columns** for clarity:  
   Example: `"State/UT"` → `"State_UT"`,  
-  `"Population (2011)"` → `"Population_2011"`,  
-  `"Area (km²)"` → `"Area_Km2"`
+  `"Population(2011)[27][28]"` → `"Population_2011"`,  
 - **Change Data Types**:
-  - `Population_2011`: Whole Number
-  - `Area_Km2`: Whole/Decimal Number (after removing commas)
-  - Other columns: Set to Text where applicable
-- **Clean Data**:
-  - Remove commas or extra characters from numeric fields
-  - Handle `null` values or errors appropriately
-- **Self-Correction**: Remove commas in `"Area (km²)"` using *Replace Values*.
-
+  - `Population_2011`: Text -> Whole Number
+  - `Area_Km2`: Text -> Whole Number 
 ### Load & Apply:
 - After transformations, load the data using **Home > Close & Apply**.
 
 ---
 
 ## 4. Dashboard Design & Visualizations
+ - This section showcases the various visualizations created to answer the project's key questions. Each visualization is accompanied by a brief explanation of its purpose and the insights it provides.
 
-> 📸 **Insert your screenshots where indicated for GitHub display**
+<img src="./Screenshots/Dashboard_Picture.png" alt="Dashboard Picture" width="400"/>
 
 ### 4.0. Full Dashboard Overview
 - **Purpose**: Overview of the complete dashboard layout.
