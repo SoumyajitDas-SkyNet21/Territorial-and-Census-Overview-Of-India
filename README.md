@@ -26,7 +26,7 @@ Specifically, the table containing the list of States and Union Territories, alo
 1. In Power BI Desktop, go to **Home > Get Data > Web**.
 2. Paste the Wikipedia URL:  
    `https://en.wikipedia.org/wiki/States_and_union_territories_of_India`
-3. In the Navigator window, select the relevant table (usually "Table 1").
+3. In the Navigator window, select Table 5
 
 ### Initial Data Inspection:
 - Review the loaded data for headers, irrelevant columns, and quality issues.
