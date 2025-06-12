@@ -78,19 +78,18 @@ Specifically, the table containing the list of States and Union Territories, alo
 ---
 
 ### 4.4. States with Smallest Area
-- **Type**: Table or Bar Chart  
+- **Type**: Stacked Column Chart 
 - **Purpose**: Highlight smallest geographical areas  
-- **Config**: Sort `Area_Km2` ascending  
-- 📷 _Insert Screenshot: Smallest Area States_
-
+- **Config**:  **Config**:`State` on Y-Axis, `Area(Km2)` on Y-Axis, sorted in ascending order -> Applied Top N filter -> Show Items by Bottom 5 
+<img src="./Screenshots/States With Smallest Area.png" alt="States With Smallest Area"/>
 ---
 
 ### 4.5. Languages Spoken in India (Share)
-- **Type**: Donut Chart / Pie Chart  
+- **Type**: Donut Chart  
 - **Purpose**: Show language diversity in India  
-- **Note**: Derived from available or external data  
-- 📷 _Insert Screenshot: Languages Spoken_
-
+- **Note**: Derived from available or external data
+- **Config**: `officiallanguages` on Legend, `officiallanguages` on Values
+<img src="./Screenshots/Languages Spoken In India.png" alt="Languages Spoken In India"/>
 ---
 
 ### 4.6. Population By Zone (Tree Map)
