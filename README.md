@@ -109,19 +109,17 @@ Based on the dashboard visualizations, the following key insights were drawn:
   - Uttar Pradesh is the most populous state in India with a population of 199,812,341 (as per 2011 census).
   - Sikkim is the least populous state in India with a population of 610,577 (as per 2011 census).
 
-Geographical Distribution:
+- Geographical Distribution:
 
-Rajasthan is the biggest state in India by area, covering approximately 68,548,437 KM$^2$.
+   - Rajasthan is the biggest state in India by area, covering approximately 68,548,437 KM$^2$.
+   - Goa is the smallest state in India with an area of 3,702 KM2.
 
-Goa is the smallest state in India with an area of 3,702 KM$^2$.
+- Linguistic Trends:
 
-Linguistic Trends:
+   - Hindi is identified as the most popular language in India.
 
-Hindi is identified as the most popular language in India.
-
-Zonal Population Distribution:
-
-The Central Region holds the largest share of the population, accounting for approximately 308,070,640 people.
+- Zonal Population Distribution:
+   - The Central Region holds the largest share of the population, accounting for approximately 308,070,640 people.
 ---
 
 ## 6. Conclusion & Future Enhancements
