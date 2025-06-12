@@ -63,10 +63,10 @@ Specifically, the table containing the list of States and Union Territories, alo
 ---
 
 ### 4.2. Top 5 States by Area (Km²)
-- **Type**: Bar Chart / Clustered Bar Chart  
-- **Purpose**: Show the largest states/UTs by area  
-- **Config**: `State_UT` on Axis, `Area_Km2` on Values, with Top N filter  
-- 📷 _Insert Screenshot: Top 5 States by Area_
+- **Type**: Stacked Column Chart 
+- **Purpose**: Show the largest States by area (Km²)
+- **Config**: `State` on Y-Axis, `Area(Km2)` on Y-Axis, with Top N filter
+  <img src="./Screenshots/Top_5_States_By_Area.png" alt="Top_5_States_By_Area"/>
 
 ---
 
