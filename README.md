@@ -46,11 +46,11 @@ Specifically, the table containing the list of States and Union Territories, alo
 ## 4. Dashboard Design & Visualizations
  - This section showcases the various visualizations created to answer the project's key questions. Each visualization is accompanied by a brief explanation of its purpose and the insights it provides.
 
-<img src="./Screenshots/Dashboard Picture.png" alt="Dashboard Picture"/>
+
 
 ### 4.0. Full Dashboard Overview
 - **Purpose**: Overview of the complete dashboard layout.
-- 📷 _Insert Screenshot: Full Power BI Dashboard_
+  <img src="./Screenshots/Dashboard Picture.png" alt="Dashboard Picture"/>
 
 ---
 
