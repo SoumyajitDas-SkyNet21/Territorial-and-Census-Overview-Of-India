@@ -111,7 +111,7 @@ Based on the dashboard visualizations, the following key insights were drawn:
 
 - Geographical Distribution:
 
-   - Rajasthan is the biggest state in India by area, covering approximately 68,548,437 KM$^2$.
+   - Rajasthan is the biggest state in India by area, covering approximately 68,548,437 KM2.
    - Goa is the smallest state in India with an area of 3,702 KM2.
 
 - Linguistic Trends:
