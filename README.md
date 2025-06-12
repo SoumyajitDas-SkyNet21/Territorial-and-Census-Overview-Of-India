@@ -111,12 +111,15 @@ Specifically, the table containing the list of States and Union Territories, alo
 
 ## 6. Conclusion & Future Enhancements
 
-This project showcased a complete Power BI pipeline from **data extraction to visualization**, offering insightful views into **India’s demographic and geographic landscape**.
+This project successfully demonstrated the process of extracting, transforming, and visualizing data in Power BI to derive meaningful insights about the States of India.
 
 ### Potential Enhancements:
-- Add **updated population estimates**
-- Include **economic indicators** like GDP or literacy rates
-- Perform **comparative analysis across years** if data permits
+
+- Integrate more recent population data (e.g., estimated current population).
+- Add data on GDP per capita, literacy rates, or other socio-economic indicators for a richer analysis.
+- Incorporate geographical mapping visuals to display states on an actual map.
+- Create more interactive elements, such as slicers for year selection (if historical data is added) or zone filtering.
+- Publish the dashboard to Power BI Service for sharing and collaboration.
 
 ---
 
