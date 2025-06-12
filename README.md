@@ -71,11 +71,10 @@ Specifically, the table containing the list of States and Union Territories, alo
 ---
 
 ### 4.3. States with Least Population
-- **Type**: Table or Bar Chart  
-- **Purpose**: Highlight least populated states/UTs  
-- **Config**: Sort `Population_2011` ascending  
-- 📷 _Insert Screenshot: Least Populated States_
-
+- **Type**:  Stacked Column Chart
+- **Purpose**: Highlight least populated States
+- **Config**:`State` on Y-Axis, `Population_2011` on Y-Axis, sorted in ascending order -> Applied Top N filter -> Show Items by Bottom 5 
+<img src="./Screenshots/States With Least Population.png" alt="States With Least Population"/>
 ---
 
 ### 4.4. States with Smallest Area
