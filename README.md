@@ -33,7 +33,7 @@ Specifically, the table containing the list of States and Union Territories, alo
 
 ### Key Transformation Steps:
 - **Rename Columns** for clarity:  
-  Example: `"State/UT"` → `"State_UT"`,  
+  Example:   
   `"Population(2011)[27][28]"` → `"Population_2011"`,  
 - **Change Data Types**:
   - `Population_2011`: Text -> Whole Number
